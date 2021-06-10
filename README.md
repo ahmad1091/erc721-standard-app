@@ -29,4 +29,4 @@ This token allows the ownership of unique digital assets. Its biggest implicatio
 
 ## this work built to work in the loaclnetwork:localhost:8545
 
-## Link to the app: [erc721-standard-app]()
+## Link to the app: [erc721-standard-app](https://hungry-einstein-5ece46.netlify.app/)
